@@ -29,7 +29,7 @@ twitter_username:
 github_username:  zzztpppp
 
 # Build settings
-theme: cayman
+remote_theme: cayman
 plugins:
   - jekyll-feed
 
